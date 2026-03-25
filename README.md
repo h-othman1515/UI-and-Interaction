@@ -77,4 +77,4 @@ project/
 **Concepts used:** CSS `animation`, `animationDuration`, `input` event on range slider
 
 ---
-link: 
+link: https://h-othman1515.github.io/UI-and-Interaction/
